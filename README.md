@@ -1,2 +1,2 @@
 # -repository-
-/kill @e[type=!#lang:bat]
+WZE FILES EXECUTER
